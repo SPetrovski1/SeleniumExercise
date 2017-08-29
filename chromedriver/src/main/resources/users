@@ -1,50 +1,7 @@
 [
   {
-    "username":"admin",
-    "password":"admin"
+    "username":"user@phptravels.com",
+    "password":"demouser"
   },
-  {
-    "username":"ajanchevski",
-    "password":"andrej"
-  },
-  {
-    "username":"bevkoski",
-    "password":"bojan"
-  },
-  {
-    "username":"vmonev",
-    "password":"vilijan"
-  },
-  {
-    "username":"bmijalcheva",
-    "password":"bojana"
-  },
-  {
-    "username":"lpoleksikj",
-    "password":"lidija"
-  },
-  {
-    "username":"eshalatanovska",
-    "password":"eva"
-  },
-  {
-    "username":"mbogutcki",
-    "password":"michal"
-  },
-  {
-    "username":"ishontevska",
-    "password":"ivana"
-  },
-  {
-    "username":"spetrovski",
-    "password":"stefan"
-  },
-  {
-    "username":"dzhelkov",
-    "password":"dimitri"
-  },
-  {
-    "username":"sarsovski",
-    "password":"sinisha"
-  }
+
 ]

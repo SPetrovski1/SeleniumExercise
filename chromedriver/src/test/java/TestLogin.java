@@ -47,15 +47,8 @@ public class TestLogin {
         Thread.sleep(2000);
         String url=driver.getCurrentUrl();
         assertTrue(url.equals("http://www.phptravels.net/account/"));//done
-        int pom = 1;
-        /*Thread.sleep(2000);
-        WebElement logout=driver.findElement(By.id("logout"));
-        logout.click();
-        Thread.sleep(2000);
-        url=driver.getCurrentUrl();
-        assertTrue(url.equals("http://localhost:9000/#!/main"));
-        WebElement success=driver.findElement(By.id("logoutAlert"));
-        assertTrue(success.isDisplayed());*/
+
+
     }
 
     @Test
