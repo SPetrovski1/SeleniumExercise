@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/selenium_test_interns/pom.xml" />
+        <option value="$PROJECT_DIR$/chromedriver/pom.xml" />
       </list>
     </option>
   </component>
