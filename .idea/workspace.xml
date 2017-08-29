@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45e55561-36ab-48b5-a79f-afa3c89ea2ae" name="Default" comment="small edit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chromedriver/src/test/java/TestLogin.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chromedriver/selenium_test_interns.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chromedriver/src/main/resources/projects" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chromedriver/src/main/resources/users" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chromedriver/target/classes/application.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chromedriver/target/classes/projects" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chromedriver/target/classes/users" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chromedriver/target/test-classes/TestLogin.class" afterPath="$PROJECT_DIR$/chromedriver/target/test-classes/TestLogin.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chromedriver/selenium_test.iml" afterPath="$PROJECT_DIR$/chromedriver/selenium_test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chromedriver/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/chromedriver/src/main/resources/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chromedriver/src/test/java/TestLogin.java" afterPath="$PROJECT_DIR$/chromedriver/src/test/java/TestLogin.java" />
     </list>
     <ignored path="$PROJECT_DIR$/selenium_test_interns/target/" />
     <ignored path="$PROJECT_DIR$/chromedriver/target/" />
@@ -18,11 +31,10 @@
       <file leaf-file-name="TestLogin.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chromedriver/src/test/java/TestLogin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state relative-caret-position="68">
+              <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#515#546#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -31,59 +43,62 @@
       <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chromedriver/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="projects" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chromedriver/src/main/resources/projects">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="users" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chromedriver/src/main/resources/users">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chromedriver/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-664">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="selenium_test_interns.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chromedriver/selenium_test_interns.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="selenium_test.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chromedriver/selenium_test.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1503998819952" expanded="true" signature="64389:64429" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="64389:64446" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="64389:64464" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="64389:64477" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="64389:64492" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="64527:67076" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="64540:67061" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="64594:64889" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="64613:64874" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="64676:64854" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="64716:64820" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="64737:64798" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="64939:65248" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="64958:65233" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="65035:65213" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="65075:65179" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="65096:65157" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="65299:65564" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="65318:65549" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="65351:65529" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="65391:65495" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="65412:65473" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="65607:65913" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="65626:65898" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="65700:65878" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="65740:65844" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="65761:65822" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="65964:66327" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="65983:66312" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="66075:66292" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="66115:66258" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="66136:66236" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="66362:66668" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="66381:66653" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="66455:66633" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="66495:66599" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="66516:66577" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="66720:67047" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="66739:67032" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="66834:67012" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="66874:66978" ph="..." />
+                <marker date="1503998819952" expanded="true" signature="66895:66956" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,7 +109,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="TestAdjust" />
       </map>
     </option>
   </component>
@@ -109,6 +124,7 @@
         <option value="$PROJECT_DIR$/selenium_test_interns/src/test/java/TestTableStatus.java" />
         <option value="$PROJECT_DIR$/selenium_test_interns/src/test/java/TestLogin.java" />
         <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/chromedriver/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/chromedriver/src/test/java/TestLogin.java" />
       </list>
     </option>
@@ -140,9 +156,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,7 +169,18 @@
             <path>
               <item name="SeleniumTests" type="b2602c69:ProjectViewProjectNode" />
               <item name="SeleniumTests" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTests" type="462c0819:PsiDirectoryNode" />
               <item name="chromedriver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTests" type="462c0819:PsiDirectoryNode" />
+              <item name="chromedriver" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SeleniumTests" type="b2602c69:ProjectViewProjectNode" />
@@ -167,6 +194,14 @@
               <item name="chromedriver" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTests" type="462c0819:PsiDirectoryNode" />
+              <item name="chromedriver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SeleniumTests" type="b2602c69:ProjectViewProjectNode" />
@@ -196,10 +231,6 @@
               <item name="target" type="462c0819:PsiDirectoryNode" />
               <item name="test-classes" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="SeleniumTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -228,7 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestLogin.testLogin">
+  <component name="RunManager" selected="JUnit.TestLogin.testLoginAndLogout">
     <configuration name="TestLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="selenium_test_interns" />
@@ -271,7 +302,7 @@
     </configuration>
     <configuration name="TestLogin.testLoginAndLogout" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="selenium_test_interns" />
+      <module name="selenium_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
@@ -279,8 +310,8 @@
       <option name="METHOD_NAME" value="testLoginAndLogout" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -389,9 +420,9 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestLogin.testLogin" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestLogin" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestLogin.testLoginAndLogout" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestLogin.testLoginAndLogout" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestLogin.testLogin" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestLogin" />
       </list>
     </recent_temporary>
   </component>
@@ -417,13 +448,10 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestLogin - 2017.08.29 at 00h 37m 53s.xml">
-      <configuration name="TestLogin" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestLogin_testLogin - 2017.08.29 at 00h 34m 20s.xml">
+    <history-entry file="TestLogin_testLogin - 2017.08.29 at 00h 48m 04s.xml">
       <configuration name="TestLogin.testLogin" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestLogin_testLogin - 2017.08.29 at 00h 48m 04s.xml">
+    <history-entry file="TestLogin_testLogin - 2017.08.29 at 11h 26m 37s.xml">
       <configuration name="TestLogin.testLogin" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestLogin_testLoginAndLogout - 2017.08.28 at 22h 52m 40s.xml">
@@ -447,12 +475,16 @@
     <history-entry file="TestLogin_testLoginAndLogout - 2017.08.28 at 23h 01m 15s.xml">
       <configuration name="TestLogin.testLoginAndLogout" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestLogin_testLoginAndLogout - 2017.08.29 at 11h 27m 28s.xml">
+      <configuration name="TestLogin.testLoginAndLogout" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7678000" />
+    <option name="totallyTimeSpent" value="8005000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -463,12 +495,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2647504" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27609682" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -478,11 +510,33 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2647504" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -527,22 +581,29 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chromedriver/src/test/java/TestLogin.java">
+    <entry file="file://$PROJECT_DIR$/selenium_test_interns/src/main/java/model/User.java" />
+    <entry file="file://$PROJECT_DIR$/selenium_test_interns/src/main/resources/users" />
+    <entry file="file://$PROJECT_DIR$/selenium_test_interns/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#515#546#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chromedriver/selenium_test_interns.iml">
+    <entry file="file://$PROJECT_DIR$/selenium_test_interns/src/test/java/TestTableStatus.java" />
+    <entry file="file://$PROJECT_DIR$/selenium_test_interns/src/test/java/TestLogin.java" />
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/selenium_exercise.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -550,7 +611,79 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chromedriver/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chromedriver/src/main/resources/users" />
+    <entry file="file://$PROJECT_DIR$/chromedriver/src/main/resources/projects" />
+    <entry file="file://$PROJECT_DIR$/chromedriver/target/classes/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chromedriver/target/test-classes/TestLogin.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chromedriver/selenium_test.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1071">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chromedriver/src/test/java/TestLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chromedriver/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chromedriver/src/test/java/TestLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chromedriver/selenium_test.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chromedriver/selenium_test.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -581,7 +714,6 @@
           <caret line="8" column="57" lean-forward="true" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#515#546#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -635,13 +767,6 @@
     <entry file="file://$PROJECT_DIR$/selenium_test_interns/src/main/java/model/User.java" />
     <entry file="file://$PROJECT_DIR$/selenium_test_interns/src/main/resources/users" />
     <entry file="file://$PROJECT_DIR$/selenium_test_interns/src/main/resources/application.properties" />
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/selenium_test_interns/src/test/java/TestTableStatus.java" />
     <entry file="file://$PROJECT_DIR$/selenium_test_interns/src/test/java/TestLogin.java" />
     <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
@@ -662,7 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -674,11 +798,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chromedriver/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/chromedriver/src/main/resources/projects">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chromedriver/target/classes/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chromedriver/target/test-classes/TestLogin.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -690,7 +827,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chromedriver/src/main/resources/projects">
+    <entry file="file://$PROJECT_DIR$/chromedriver/selenium_test.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -698,37 +835,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chromedriver/target/classes/application.properties">
+    <entry file="file://$PROJECT_DIR$/chromedriver/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chromedriver/target/test-classes/TestLogin.class">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chromedriver/selenium_test_interns.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1503998819952" expanded="true" signature="64389:64429" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="64389:64446" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="64389:64464" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="64389:64477" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="64389:64492" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="64527:67076" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="64540:67061" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="64594:64889" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="64613:64874" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="64676:64854" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="64716:64820" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="64737:64798" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="64939:65248" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="64958:65233" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="65035:65213" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="65075:65179" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="65096:65157" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="65299:65564" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="65318:65549" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="65351:65529" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="65391:65495" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="65412:65473" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="65607:65913" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="65626:65898" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="65700:65878" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="65740:65844" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="65761:65822" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="65964:66327" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="65983:66312" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="66075:66292" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="66115:66258" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="66136:66236" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="66362:66668" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="66381:66653" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="66455:66633" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="66495:66599" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="66516:66577" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="66720:67047" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="66739:67032" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="66834:67012" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="66874:66978" ph="..." />
+            <marker date="1503998819952" expanded="true" signature="66895:66956" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chromedriver/src/test/java/TestLogin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="68">
+          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#515#546#0" expanded="true" />
           </folding>
         </state>
       </provider>
